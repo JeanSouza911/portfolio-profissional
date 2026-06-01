@@ -11,8 +11,8 @@ Um portfólio moderno e performático para apresentar **projetos, habilidades e 
 
 ## Links
 
-- **LinkedIn**: `https://www.linkedin.com/in/SEU-USUARIO/`
-- **GitHub**: `https://github.com/SEU-USUARIO`
+- **LinkedIn**: `https://www.linkedin.com/in/jean-souza-79b491160/`
+- **GitHub**: `https://github.com/JeanSouza911`
 
 ## Tech Stack
 
