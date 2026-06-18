@@ -23,7 +23,7 @@ export const siteConfig = {
     github: "https://github.com/JeanSouza911",
   },
   /** Troque por "/profile/sua-foto.webp" (ou .jpg) ao adicionar a imagem real */
-  profileImage: "/profile/jean.png",
+  profileImage: "/profile/jeansouza.png",
   profileImageAlt: "Foto de perfil de Jean Souza",
 } as const;
 
